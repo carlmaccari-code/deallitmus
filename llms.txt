@@ -1,0 +1,83 @@
+# DealLitmus
+
+> DealLitmus is a real estate deal analyzer that runs in the browser. It analyzes rental, BRRRR and fix-and-flip deals (cash flow, cash-on-cash return, cap rate, DSCR, IRR, 30-year projections) and includes free calculators, worked-example guides and a glossary. No account is needed and deals stay on the user's device. The free plan saves three deals; Pro ($39) and Agent ($99, branded reports) are one-time purchases with no subscription. All figures are pre-tax estimates, not financial advice.
+
+- [Deal analyzer app](https://carlmaccari-code.github.io/deallitmus/app/): the full analyzer
+- [Sample branded report](https://carlmaccari-code.github.io/deallitmus/app/#/sample): what an agent's client receives
+
+## Calculators
+
+- [Rental property calculator](https://carlmaccari-code.github.io/deallitmus/calculators/rental-property-calculator/): Enter the purchase, the loan and the rent. Cash flow, cash-on-cash return, cap rate and DSCR update as you type.
+- [BRRRR calculator](https://carlmaccari-code.github.io/deallitmus/calculators/brrrr-calculator/): Buy, rehab, rent, refinance, repeat. See how much of your cash the refinance returns and what the property earns afterwards.
+- [Fix and flip calculator](https://carlmaccari-code.github.io/deallitmus/calculators/fix-and-flip-calculator/): Count the costs between the purchase and the sale, and see what is actually left: net profit, return on cash and your break-even price.
+- [Cash-on-cash return calculator](https://carlmaccari-code.github.io/deallitmus/calculators/cash-on-cash-return-calculator/): How hard is your down payment working? Enter four numbers to find out.
+- [Cap rate calculator](https://carlmaccari-code.github.io/deallitmus/calculators/cap-rate-calculator/): Net operating income divided by the price plus any up-front repairs. The quickest way to compare one property with another.
+- [DSCR calculator](https://carlmaccari-code.github.io/deallitmus/calculators/dscr-calculator/): Does the rent cover the loan, and by how much? See the ratio lenders look at and the largest loan the income supports.
+- [70% rule calculator](https://carlmaccari-code.github.io/deallitmus/calculators/70-percent-rule-calculator/): The flipper’s rule of thumb: pay no more than 70% of the after-repair value, minus repairs.
+- [1% rule calculator](https://carlmaccari-code.github.io/deallitmus/calculators/one-percent-rule-calculator/): A ten-second screen for rental listings: does a month of rent equal at least 1% of the price?
+- [50% rule calculator](https://carlmaccari-code.github.io/deallitmus/calculators/50-percent-rule-calculator/): Estimate cash flow from two numbers by assuming half the rent goes to operating expenses.
+- [Gross rent multiplier calculator](https://carlmaccari-code.github.io/deallitmus/calculators/gross-rent-multiplier-calculator/): How many years of gross rent does the price represent? A quick way to compare similar properties.
+- [House hacking calculator](https://carlmaccari-code.github.io/deallitmus/calculators/house-hacking-calculator/): Live in one unit, rent out the rest. See what your housing actually costs once the tenants pay their share.
+- [Wholesale deal calculator](https://carlmaccari-code.github.io/deallitmus/calculators/wholesale-deal-calculator/): Work back from what an investor will pay to what you can offer the seller, with your fee in between.
+- [Short-term rental calculator](https://carlmaccari-code.github.io/deallitmus/calculators/short-term-rental-calculator/): Nightly rate times occupancy looks great until the fees, the furniture and the mortgage arrive. See what is left.
+- [Investment property mortgage calculator](https://carlmaccari-code.github.io/deallitmus/calculators/investment-property-mortgage-calculator/): The full monthly payment on a rental: principal, interest, taxes, insurance and HOA.
+- [Cash-out refinance calculator](https://carlmaccari-code.github.io/deallitmus/calculators/cash-out-refinance-calculator/): How much equity can you pull out, and what does the bigger loan cost each month?
+- [Rental property ROI calculator](https://carlmaccari-code.github.io/deallitmus/calculators/rental-property-roi-calculator/): Cash flow is only part of the return. Add loan paydown and appreciation to see the whole picture.
+- [ARV calculator](https://carlmaccari-code.github.io/deallitmus/calculators/arv-calculator/): Estimate what a property will be worth once renovated, from recent sales of similar renovated homes.
+
+## Guides
+
+- [How to analyze a rental property](https://carlmaccari-code.github.io/deallitmus/guides/how-to-analyze-a-rental-property/): One duplex, every number shown. By the end you will know what it earns, what could go wrong, and the most you should pay for it.
+- [The BRRRR method, with a worked example](https://carlmaccari-code.github.io/deallitmus/guides/brrrr-method-example/): Buy, rehab, rent, refinance, repeat. Here is one deal followed from the first dollar in to the last dollar back out.
+- [DSCR explained for rental investors](https://carlmaccari-code.github.io/deallitmus/guides/dscr-explained/): Debt service coverage ratio shows whether a rental's income covers its loan payments. Here is the full calculation on one $240,000 rental, plus the two common ways lenders define it.
+- [House hacking, with a worked example](https://carlmaccari-code.github.io/deallitmus/guides/house-hacking-example/): House hacking means living in one part of a property and renting out the rest. Here is one duplex worked through from the loan to the move-out test, with the math shown at each step.
+- [How to analyze a fix and flip](https://carlmaccari-code.github.io/deallitmus/guides/how-to-analyze-a-fix-and-flip/): One house, bought for $168,000 with a $42,000 rehab budget and an expected sale at $289,000. Here is every step from those three numbers to a pre-tax profit of $39,856, including the rule of thumb this deal fails.
+- [How to estimate rental property expenses](https://carlmaccari-code.github.io/deallitmus/guides/rental-property-expenses/): Every operating expense line on one $240,000 rental, how investors commonly budget it, and how to swap each estimate for a real number before you buy. All figures are pre-tax.
+- [Short-term vs. long-term rental: the same house, both ways](https://carlmaccari-code.github.io/deallitmus/guides/short-term-vs-long-term-rental/): One $320,000 house, one loan, two ways to rent it. The short-term version clears $173 a month before taxes, and the long-term version loses $391 a month.
+
+## Glossary
+
+- [1% rule](https://carlmaccari-code.github.io/deallitmus/glossary/one-percent-rule/): The 1% rule is a quick rental screen: monthly rent should be at least 1% of the purchase price for a property to deserve a closer look.
+- [50% rule](https://carlmaccari-code.github.io/deallitmus/glossary/fifty-percent-rule/): The 50% rule estimates that about half of a rental's rent goes to operating expenses, not counting the mortgage payment.
+- [70% rule](https://carlmaccari-code.github.io/deallitmus/glossary/seventy-percent-rule/): The 70% rule says a house flipper should pay no more than 70% of the after-repair value minus the cost of repairs.
+- [After-repair value (ARV)](https://carlmaccari-code.github.io/deallitmus/glossary/arv/): After-repair value (ARV) is the estimated market value of a property once planned repairs are done, based on sales of similar renovated homes.
+- [Amortization](https://carlmaccari-code.github.io/deallitmus/glossary/amortization/): Amortization is paying off a loan in regular payments, each split between interest and principal, until the balance reaches zero.
+- [Appreciation](https://carlmaccari-code.github.io/deallitmus/glossary/appreciation/): Appreciation is the increase in a property’s value over time, from market forces or from improvements you make.
+- [Assignment fee](https://carlmaccari-code.github.io/deallitmus/glossary/assignment-fee/): An assignment fee is what a wholesaler is paid for transferring a purchase contract on a property to an end buyer.
+- [Break-even occupancy](https://carlmaccari-code.github.io/deallitmus/glossary/break-even-occupancy/): Break-even occupancy is the share of potential income a property must collect to cover its operating expenses and loan payments.
+- [BRRRR method](https://carlmaccari-code.github.io/deallitmus/glossary/brrrr/): BRRRR means buy, rehab, rent, refinance, repeat: a strategy that pulls most of your cash back out of one rental to fund the next.
+- [Cap rate](https://carlmaccari-code.github.io/deallitmus/glossary/cap-rate/): Cap rate is a property's net operating income divided by its price plus any up-front repairs: the yearly pre-tax return if you paid all cash.
+- [Capital expenditures (CapEx)](https://carlmaccari-code.github.io/deallitmus/glossary/capex/): Capital expenditures (CapEx) are large, infrequent costs to replace or upgrade major parts of a property, such as a roof or furnace.
+- [Cash flow](https://carlmaccari-code.github.io/deallitmus/glossary/cash-flow/): Cash flow is the pre-tax money a rental property has left each month or year after vacancy, operating expenses, reserves and loan payments.
+- [Cash-on-cash return](https://carlmaccari-code.github.io/deallitmus/glossary/cash-on-cash-return/): Cash-on-cash return is a rental's annual pre-tax cash flow divided by the total cash you invested to buy it.
+- [Cash-out refinance](https://carlmaccari-code.github.io/deallitmus/glossary/cash-out-refinance/): A cash-out refinance replaces your mortgage with a larger loan and pays you the difference in cash, turning equity into money you can use.
+- [Closing costs](https://carlmaccari-code.github.io/deallitmus/glossary/closing-costs/): Closing costs are the lender, title and other fees plus prepaid items you pay to complete a real estate purchase, sale or refinance.
+- [Debt service](https://carlmaccari-code.github.io/deallitmus/glossary/debt-service/): Debt service is the total of the loan payments, principal plus interest, that a property owner owes a lender over a period, usually a year.
+- [Debt service coverage ratio (DSCR)](https://carlmaccari-code.github.io/deallitmus/glossary/dscr/): DSCR is a property's net operating income divided by its annual loan payments, showing how easily the income covers the debt.
+- [Effective gross income](https://carlmaccari-code.github.io/deallitmus/glossary/effective-gross-income/): Effective gross income is the potential rent of a rental property minus vacancy and unpaid rent, plus other income such as laundry or parking.
+- [Equity multiple](https://carlmaccari-code.github.io/deallitmus/glossary/equity-multiple/): Equity multiple is the total cash an investment returns divided by the total cash invested, showing how many times you got your money back.
+- [Gross rent multiplier (GRM)](https://carlmaccari-code.github.io/deallitmus/glossary/gross-rent-multiplier/): Gross rent multiplier (GRM) is a property's price divided by its annual gross rent, a quick way to compare rentals before expenses.
+- [Hard money loan](https://carlmaccari-code.github.io/deallitmus/glossary/hard-money-loan/): A hard money loan is a short-term, higher-cost loan from a private lender, secured by the property and often used for flips and rehabs.
+- [Holding costs](https://carlmaccari-code.github.io/deallitmus/glossary/holding-costs/): Holding costs are the interest, taxes, insurance and utilities you pay to own a property while it is being fixed up, leased or sold.
+- [House hacking](https://carlmaccari-code.github.io/deallitmus/glossary/house-hacking/): House hacking means living in one part of a property and renting out the rest so the rent covers some or all of your housing cost.
+- [Internal rate of return (IRR)](https://carlmaccari-code.github.io/deallitmus/glossary/irr/): IRR is the annual rate of return on a deal over the full hold, counting the size and timing of every cash flow, including the sale.
+- [Loan points](https://carlmaccari-code.github.io/deallitmus/glossary/loan-points/): Loan points are upfront lender fees paid at closing, where one point equals 1% of the loan amount.
+- [Loan-to-value (LTV)](https://carlmaccari-code.github.io/deallitmus/glossary/ltv/): Loan-to-value (LTV) is a loan amount divided by the property's value, the ratio lenders use to cap how much you can borrow.
+- [Maximum allowable offer (MAO)](https://carlmaccari-code.github.io/deallitmus/glossary/mao/): Maximum allowable offer (MAO) is the highest price you can pay for a property and still hit your target profit after repairs and costs.
+- [Net operating income (NOI)](https://carlmaccari-code.github.io/deallitmus/glossary/noi/): Net operating income (NOI) is a property's yearly income after operating expenses, before mortgage payments and income taxes.
+- [Operating expenses](https://carlmaccari-code.github.io/deallitmus/glossary/operating-expenses/): Operating expenses are the recurring costs of running a rental, such as taxes, insurance, management and repairs, not including the mortgage.
+- [PITI](https://carlmaccari-code.github.io/deallitmus/glossary/piti/): PITI is the full monthly mortgage payment: principal, interest, property taxes and insurance.
+- [Private mortgage insurance (PMI)](https://carlmaccari-code.github.io/deallitmus/glossary/pmi/): Private mortgage insurance (PMI) is a premium you pay that protects the lender when you put less than 20% down on a conventional loan.
+- [Rent-to-price ratio](https://carlmaccari-code.github.io/deallitmus/glossary/rent-to-price-ratio/): The rent-to-price ratio is the monthly rent on a property divided by its purchase price, used as a quick first screen for rental deals.
+- [Seasoning period](https://carlmaccari-code.github.io/deallitmus/glossary/seasoning-period/): A seasoning period is how long you must own a property or hold its loan before a lender will refinance it, commonly 6 to 12 months.
+- [Turnkey property](https://carlmaccari-code.github.io/deallitmus/glossary/turnkey-property/): A turnkey property is a renovated rental, often with a tenant and manager in place, sold ready to produce income from day one.
+- [Vacancy rate](https://carlmaccari-code.github.io/deallitmus/glossary/vacancy-rate/): Vacancy rate is the share of a rental's potential rent lost because the unit sits empty, expressed as a percentage.
+- [Wholesaling](https://carlmaccari-code.github.io/deallitmus/glossary/wholesaling/): Wholesaling means putting a property under contract and passing that contract to another investor for a fee, usually without owning it.
+
+## Comparisons
+
+- [Looking for a BiggerPockets calculator alternative? Here is how DealLitmus compares](https://carlmaccari-code.github.io/deallitmus/compare/biggerpockets-calculator-alternative/): BiggerPockets calculators and DealLitmus are separate, unrelated products that overlap on deal math for rentals, BRRRRs and flips. This page is written by DealLitmus's maker, using what BiggerPockets' public website, help center and Terms of Use said on October 5, 2026.
+- [Looking for a DealCheck alternative? Here is how DealLitmus compares](https://carlmaccari-code.github.io/deallitmus/compare/dealcheck-alternative/): DealCheck and DealLitmus are separate, unrelated products that both analyze rentals, BRRRRs and flips. This page is written by DealLitmus's maker, using what DealCheck's public website and help center said on October 5, 2026.
+- [Looking for a Mashvisor alternative? Here is how DealLitmus compares](https://carlmaccari-code.github.io/deallitmus/compare/mashvisor-alternative/): Mashvisor is an online real estate analytics platform, while DealLitmus is a calculator for a deal you already have, so the two overlap only on running the numbers. This page is written by DealLitmus's maker, using what Mashvisor's public website and help center said on October 5, 2026.
+- [Rental property spreadsheet vs DealLitmus](https://carlmaccari-code.github.io/deallitmus/compare/rental-property-spreadsheet-vs-app/): A spreadsheet gives you full control and costs nothing beyond the spreadsheet software if you build your own. DealLitmus gives you rental, BRRRR and fix-and-flip analysis with the calculations already built.
+- [Zilculator vs DealLitmus: which one fits your deal analysis](https://carlmaccari-code.github.io/deallitmus/compare/zilculator-alternative/): Zilculator is a deal analysis and marketing platform with property data and comps; DealLitmus is a pay-once calculator with no data feeds and no account. This page is written by DealLitmus's maker and says plainly where Zilculator is the better choice.
